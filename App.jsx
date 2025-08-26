@@ -1,7 +1,5 @@
-import LandingCancha0 from './LandingCancha0'
-
-function App() {
-  return <LandingCancha0 />
+// src/App.jsx
+import LandingCancha0 from "./LandingCancha0";
+export default function App() {
+  return <LandingCancha0 />;
 }
-
-export default App
